@@ -50,8 +50,12 @@ h5{
 }
 
 .card-text{
+	padding-left: 10px;
+	padding-right: 10px;
 	display: inline-flex;
 	flex-direction: column;
+	font-family: 'Montserrat';
+	font-size: 18px;
 }
 .card-top{
  display: flex;
@@ -86,6 +90,11 @@ h6, .cb-label-text {
 p{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
+}
+.name-a{
+	font-family: 'Montserrat';
+	font-size: 24px;
+	font-weight: 600;
 }
 
 .flex-parent {
