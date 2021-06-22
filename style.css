@@ -126,6 +126,8 @@ p{
 	color:#6B007C; 
 	padding-top: 50px;
 	padding-bottom: 10px;
+	font-family:'Bariol Bold';
+	font-size: 65px;
 
 	 /* i need to add the bariol font here*/
 
@@ -136,6 +138,8 @@ p{
 	margin: 0 5%;
 	padding-bottom: 50px;
 	font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 30px;
 }
 .why-kismet-title{
 	text-align: center;
