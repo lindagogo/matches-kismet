@@ -233,65 +233,6 @@ input[type="checkbox"]{
 	display: inline-block;
 	display: grid;
 }
-.question {
-	padding-bottom: 50px;
-
-}
-hr  
-{  
-width: 90%;  
-height: 2px;  
-background-color: #6B007C;  
-border-width: 2px;  
-border-color: #6B007C; 
-}  
-
-.test1{
-	display: flex;
-	width: 100%;
-	padding-top: 50px;
-}
-.image-test {
-	flex:  33%;
-	max-width:  250px;
-}
-.test {
-	padding-left: 10%;
-	flex:  67%;
-}
-.cb4{
-	padding-bottom: 50px;
-	display:  flex;
-}
-.cb{
-	flex-basis:  25%;
-	max-width:  25%;
-
-}
-.ph {
-	display: flex;
-	max-height: 50%;
-
-}
-.ladder1 {
-	display: flex;
-	justify-content: center;
-	padding-top: 50px;
-
-}
-.ladder12{
-	display: flex;
-	justify-content: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	
-}
-.ph2{
-	display: flex;
-	max-height: 80%;
-	align-content:center;
-	justify-content:center;
-}
 
 .cb input[type="radio"] {
     position: absolute;
