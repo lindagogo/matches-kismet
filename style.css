@@ -65,6 +65,7 @@ h5{
 .card-mid{
  display: inline-block;
  position: relative;
+ padding-left: 15px;
 
 }
 
