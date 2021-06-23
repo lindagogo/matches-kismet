@@ -137,6 +137,7 @@ p{
 }
 #navbarSupportedContent {
 	justify-content:  flex-end;
+	font-family: 'Montserrat', sans-serif;
 }
 .header-title{
 	display: inline-block;
