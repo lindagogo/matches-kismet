@@ -51,6 +51,9 @@ h5{
 	border-radius: 20px;
 	
 }
+.pie-c1{
+	padding-left: 25px;
+}
 
 .button-s{
 	display: flex;
@@ -64,7 +67,11 @@ h5{
 	background-color: #6B007C;
 }
 .card-bot-1{
-	
+	padding-top: 10px;
+	padding-left: 25px;
+}
+.mess-1{
+	padding-left: 15px;
 }
 
 #btn2{
