@@ -54,6 +54,9 @@ h5{
 .pie-c1{
 	padding-left: 25px;
 }
+.account-img{
+	max-width:50px;
+}
 
 .button-s{
 	display: flex;
@@ -61,6 +64,17 @@ h5{
 	padding-bottom: 50px;
 }
 
+.nav-item{
+ display:flex;
+	flex-direction: column;
+	padding-left: 30px;
+	align-items: center;
+}
+
+.navbar-nav {
+	display: flex;
+	align-items: flex-end;
+}
 
 .btn1{
 	padding: 10px;
